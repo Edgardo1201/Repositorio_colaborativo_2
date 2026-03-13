@@ -1,3 +1,31 @@
 nombre = input("Ingresa tu nombre: ")
 edad = int(input("Ingresa tu edad: "))
 ciudad = input("Ingresa la ciudad donde vives: ")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Integrante 4 – Construcción de la historia
+print("\n--- Historia del protagonista ---\n")
+
+print(f"Hola, mi nombre es {nombre}.")
+print(f"Tengo {edad} años y vivo en {ciudad}.")
+print(f"Actualmente me dedico a {profesion}.")
+print(f"En mi tiempo libre me gusta {hobby}.")
+print(f"Mi comida favorita es {comida}.")
+print(f"Uno de mis mayores sueños es {sueno}.")
+print("¡Esta es la historia de un protagonista con grandes metas!")
