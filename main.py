@@ -4,9 +4,11 @@ ciudad = input("Ingresa la ciudad donde vives: ")
 
 
 
-
-
-
+Integrante 2 – Información adicional
+Este agrega profesión y hobby.
+# Integrante 2
+profesion = input("¿A qué te dedicas o qué estudias?: ")
+hobby = input("¿Cuál es tu pasatiempo favorito?: ")
 
 
 
