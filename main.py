@@ -1,25 +1,17 @@
+#Integrante 1 - agrega datos basicos
 nombre = input("Ingresa tu nombre: ")
-edad = int(input("Ingresa tu edad: "))
+edad = input("Ingresa tu edad: ")
 ciudad = input("Ingresa la ciudad donde vives: ")
 
 
-
-Integrante 2 – Información adicional
-Este agrega profesión y hobby.
-# Integrante 2
+#Integrante 2 - agrega profesión y hobby
 profesion = input("¿A qué te dedicas o qué estudias?: ")
 hobby = input("¿Cuál es tu pasatiempo favorito?: ")
-
-
 
 
 #Integrante 3 - Mas Datos para la historia
 comida = input("¿Cuál es tu comida favorita?: ")
 sueno = input("Cual es tu mayor sueño o meta que tienes en mente a futuro?" )
-
-
-
-
 
 
 # Integrante 4 – Construcción de la historia
