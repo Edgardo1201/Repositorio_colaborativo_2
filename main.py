@@ -11,8 +11,9 @@ ciudad = input("Ingresa la ciudad donde vives: ")
 
 
 
-
-
+#Integrante 3 - Mas Datos para la historia
+comida = input("¿Cuál es tu comida favorita?: ")
+sueno = input("Cual es tu mayor sueño o meta que tienes en mente a futuro?" )
 
 
 
